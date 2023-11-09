@@ -15,17 +15,17 @@ VUE.JS는 간단하고 직관적인 API를 가지고 있어 쉽게 배우고 사
 
 ## 셋팅
 `npm init vue@latest`
-√ Project name: ... vue-project
-√ Add TypeScript? ... <span style="color: blue">No</span> / Yes
-√ Add JSX Support? ... No / <span style="color: blue">YES</span> 
-√ Add Vue Router for Single Page Application development? ... No / <span style="color: blue">YES</span>
-√ Add Pinia for state management? ... <span style="color: blue">No</span>/ Yes
-√ Add Vitest for Unit Testing? ... <span style="color: blue">No</span>/ Yes
-√ Add an End-to-End Testing Solution? » No
-√ Add ESLint for code quality? ... No / <span style="color: blue">YES</span>
-√ Add Prettier for code formatting? ... No /<span style="color: blue">YES</span>
+√ Project name: ... vue-project   
+√ Add TypeScript? ... <span style="color: blue">No</span> / Yes   
+√ Add JSX Support? ... No / <span style="color: blue">YES</span>    
+√ Add Vue Router for Single Page Application development? ... No / <span style="color: blue">YES</span>   
+√ Add Pinia for state management? ... <span style="color: blue">No</span>/ Yes   
+√ Add Vitest for Unit Testing? ... <span style="color: blue">No</span>/ Yes   
+√ Add an End-to-End Testing Solution? » No    
+√ Add ESLint for code quality? ... No / <span style="color: blue">YES</span>   
+√ Add Prettier for code formatting? ... No /<span style="color: blue">YES</span>   
 
-gsap 설치 :  `npm install gsap`
-sass 설치 : `npm install sass`
-lenis 설치 : `npm install @studio-freight/lenis`
+gsap 설치 :  `npm install gsap`   
+sass 설치 : `npm install sass`   
+lenis 설치 : `npm install @studio-freight/lenis`   
 
